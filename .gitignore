@@ -11,6 +11,11 @@ train_pairs.txt
 zalando-hd-resized.zip
 train/
 test/
+cloth*
+unpaired-*
 
 #others
 src/
+.DS_Store
+ldm/.DS_Store
+warp/.DS_Store
