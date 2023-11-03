@@ -1,0 +1,7 @@
+train/
+test/
+models/
+PF-AFN/
+
+test_pairs.txt
+train_pairs.txt
