@@ -1,7 +1,16 @@
-train/
-test/
-models/
+#warping module
 PF-AFN/
 
+#model checkpoint
+models/
+viton512.ckpt
+
+#datasets
 test_pairs.txt
 train_pairs.txt
+zalando-hd-resized.zip
+train/
+test/
+
+#others
+src/
